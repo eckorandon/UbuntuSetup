@@ -71,6 +71,10 @@ apt-get install preload
 banner 'Wine'
 apt-get install wine
 
+#GCC
+banner 'GCC'
+apt-get install gcc
+
 #audacity
 #banner 'Audacity'
 #apt-get install audacity
