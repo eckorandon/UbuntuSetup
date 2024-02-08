@@ -67,6 +67,10 @@ apt-get install ubuntu-restricted-extras
 banner 'Pre load'
 apt-get install preload
 
+#Wine
+banner 'Wine'
+apt-get install wine
+
 #audacity
 #banner 'Audacity'
 #apt-get install audacity
