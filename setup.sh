@@ -75,6 +75,10 @@ apt-get install wine
 banner 'GCC'
 apt-get install gcc
 
+#Gnome sushi
+banner 'Gnome Sushi'
+apt-get install gnome-sushi
+
 #audacity
 #banner 'Audacity'
 #apt-get install audacity
