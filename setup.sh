@@ -31,6 +31,12 @@ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sou
 apt-get update
 apt-get install sublime-text
 
+#Torbrowser
+banner 'Tor Browser'
+add-apt-repository ppa:micahflee/ppa
+apt-get update
+apt-get install torbrowser-launcher
+
 #Steam
 banner 'Steam'
 apt-get install steam
