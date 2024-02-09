@@ -75,6 +75,10 @@ apt-get install wine
 banner 'GCC'
 apt-get install gcc
 
+#Codeblocks
+banner 'Codeblocks'
+apt-get install codeblocks
+
 #Gnome sushi
 banner 'Gnome Sushi'
 apt-get install gnome-sushi
